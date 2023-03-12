@@ -1,0 +1,14 @@
+{
+  "validCredentials": {
+    "email": "gianna@hightable.test",
+    "password": "thedantonio1"
+  },
+  "invalidCredentials": {
+    "email": "gianna@hightable.test",
+    "password": "test"
+  },
+  "blankEntry": {
+    "email": "",
+    "password": ""
+  }
+}
