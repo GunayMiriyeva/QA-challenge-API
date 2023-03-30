@@ -7,6 +7,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
   },
+  projectId:"36nfxk",
   env: {
     qaUrl: 'https://qa-challenge-api.scratchpay.com',
   },
